@@ -1,0 +1,29 @@
+# 💫 About Me
+
+🔭 I'm currently working on Python-based data projects<br>
+👯 I'm looking to collaborate on data engineering & backend projects<br>
+🤝 I'm looking for help with Databricks, workflows, and API integrations<br>
+🌱 I'm currently learning data engineering, ETL pipelines, and cloud platforms<br>
+💬 Ask me about Python, SQL, and building data pipelines<br>
+⚡ Fun fact: I enjoy turning messy data into meaningful insights 🚀
+
+## 💻 Tech Stack
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=anupmika&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=anupmika&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=anupmika&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=anupmika&style=for-the-badge&color=orange)
