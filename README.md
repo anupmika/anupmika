@@ -1,10 +1,15 @@
 # 💫 About Me
 
-🔭 I'm currently working on Python-based data projects  
-👯 I'm looking to collaborate on data engineering & backend projects  
-🤝 I'm looking for help with Databricks, workflows, and API integrations  
-🌱 I'm currently learning data engineering, ETL pipelines, and cloud platforms  
-💬 Ask me about Python, SQL, and building data pipelines  
+🔭 I'm currently working on Python-based data projects
+
+👯 I'm looking to collaborate on data engineering & backend projects
+
+🤝 I'm looking for help with Databricks, workflows, and API integrations
+
+🌱 I'm currently learning data engineering, ETL pipelines, and cloud platforms
+
+💬 Ask me about Python, SQL, and building data pipelines
+
 ⚡ Fun fact: I enjoy turning messy data into meaningful insights 🚀
 
 ## 💻 Tech Stack
@@ -14,8 +19,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=anupmika&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=anupmika&theme=dark&hide_border=false)  
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=anupmika&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=anupmika&theme=dark&hide_border=false)
+
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=anupmika&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
