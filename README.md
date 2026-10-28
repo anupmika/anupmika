@@ -1,15 +1,10 @@
 # 💫 About Me
 
-🔭 I'm currently working on Python-based data projects
-
-👯 I'm looking to collaborate on data engineering & backend projects
-
-🤝 I'm looking for help with Databricks, workflows, and API integrations
-
-🌱 I'm currently learning data engineering, ETL pipelines, and cloud platforms
-
-💬 Ask me about Python, SQL, and building data pipelines
-
+🔭 I'm currently working on Python-based data projects<br>
+👯 I'm looking to collaborate on data engineering & backend projects<br>
+🤝 I'm looking for help with Databricks, workflows, and API integrations<br>
+🌱 I'm currently learning data engineering, ETL pipelines, and cloud platforms<br>
+💬 Ask me about Python, SQL, and building data pipelines<br>
 ⚡ Fun fact: I enjoy turning messy data into meaningful insights 🚀
 
 ## 💻 Tech Stack
@@ -40,5 +35,3 @@
 ---
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=anupmika&icon=0&color=0)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
